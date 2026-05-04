@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfuntum_docs=self.webpackChunkfuntum_docs||[]).push([["191"],{5516(u){u.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

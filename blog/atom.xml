@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://funtum.xyz/blog</id>
+    <title>funtum.xyz Blog</title>
+    <updated>2026-04-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://funtum.xyz/blog"/>
+    <subtitle>funtum.xyz Blog</subtitle>
+    <icon>https://funtum.xyz/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Funtum.xyz]]></title>
+        <id>https://funtum.xyz/blog/welcome</id>
+        <link href="https://funtum.xyz/blog/welcome"/>
+        <updated>2026-04-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Updates about my projects, tools, and guides.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the new Funtum.xyz website!</p>
+<p>This page will mainly be used for updates about projects that I'm working on...</p>
+<!-- -->
+<p>I may write blog posts about:</p>
+<ul>
+<li class="">aurorachat</li>
+<li class="">Juxtaposition Enhancer</li>
+<li class="">Website improvements</li>
+</ul>]]></content>
+        <author>
+            <name>Funtum</name>
+            <uri>https://github.com/ItsFuntum</uri>
+        </author>
+        <category label="site" term="site"/>
+        <category label="update" term="update"/>
+    </entry>
+</feed>
