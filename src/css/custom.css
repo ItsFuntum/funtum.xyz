@@ -1,0 +1,22 @@
+:root {
+  --ifm-color-primary: #2563eb;
+  --ifm-color-primary-dark: #1d4ed8;
+  --ifm-font-family-base: Inter, sans-serif;
+  --ifm-code-font-size: 95%;
+}
+
+.navbar {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.menu {
+  font-weight: 500;
+}
+
+.markdown {
+  max-width: 850px;
+}
+
+.hero {
+  padding: 4rem 0;
+}
