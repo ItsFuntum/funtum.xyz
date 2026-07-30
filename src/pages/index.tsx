@@ -16,6 +16,16 @@ export default function Home(): JSX.Element {
         </p>
 
         <section style={{ marginTop: "3rem" }}>
+          <h2>StreamMii</h2>
+          <p>
+            StreamMii is a Wii U plugin that captures and streams the TV or DRC (GamePad) display to a receiver over the network.
+          </p>
+          <p>
+            <a href="https://github.com/ItsFuntum/StreamMii">GitHub</a>
+          </p>
+        </section>
+
+        <section style={{ marginTop: "3rem" }}>
           <h2>aurorachat for Wii U</h2>
           <p>
             aurorachat is a chatting application for a wide range of devices,
