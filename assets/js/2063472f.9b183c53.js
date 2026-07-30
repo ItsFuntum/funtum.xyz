@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfuntum_docs=self.webpackChunkfuntum_docs||[]).push([["884"],{7646(e){e.exports=JSON.parse('{"tags":[{"label":"site","permalink":"/blog/tags/site","count":1},{"label":"update","permalink":"/blog/tags/update","count":1}]}')}}]);

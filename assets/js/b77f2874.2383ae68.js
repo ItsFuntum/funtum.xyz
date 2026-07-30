@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfuntum_docs=self.webpackChunkfuntum_docs||[]).push([["287"],{1676(t){t.exports=JSON.parse('{"metadata":{"permalink":"/funtum.xyz/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

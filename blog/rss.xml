@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>funtum.xyz Blog</title>
-        <link>https://funtum.xyz/blog/</link>
+        <link>https://funtum.xyz/funtum.xyz/blog</link>
         <description>funtum.xyz Blog</description>
         <lastBuildDate>Wed, 29 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome to Funtum.xyz]]></title>
-            <link>https://funtum.xyz/blog/welcome/</link>
-            <guid>https://funtum.xyz/blog/welcome/</guid>
+            <link>https://funtum.xyz/funtum.xyz/blog/welcome</link>
+            <guid>https://funtum.xyz/funtum.xyz/blog/welcome</guid>
             <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Updates about my projects, tools, and guides.]]></description>
             <content:encoded><![CDATA[<p>Welcome to the new Funtum.xyz website!</p>

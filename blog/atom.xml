@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://funtum.xyz/blog/</id>
+    <id>https://funtum.xyz/funtum.xyz/blog</id>
     <title>funtum.xyz Blog</title>
     <updated>2026-04-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://funtum.xyz/blog/"/>
+    <link rel="alternate" href="https://funtum.xyz/funtum.xyz/blog"/>
     <subtitle>funtum.xyz Blog</subtitle>
-    <icon>https://funtum.xyz/img/favicon.ico</icon>
+    <icon>https://funtum.xyz/funtum.xyz/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to Funtum.xyz]]></title>
-        <id>https://funtum.xyz/blog/welcome/</id>
-        <link href="https://funtum.xyz/blog/welcome/"/>
+        <id>https://funtum.xyz/funtum.xyz/blog/welcome</id>
+        <link href="https://funtum.xyz/funtum.xyz/blog/welcome"/>
         <updated>2026-04-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Updates about my projects, tools, and guides.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to the new Funtum.xyz website!</p>

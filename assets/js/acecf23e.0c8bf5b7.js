@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfuntum_docs=self.webpackChunkfuntum_docs||[]).push([["220"],{1912(u){u.exports=JSON.parse('{"blogBasePath":"/funtum.xyz/blog","blogTitle":"Blog","authorsListPath":"/funtum.xyz/blog/authors"}')}}]);
