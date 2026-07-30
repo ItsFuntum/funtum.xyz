@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfuntum_docs=self.webpackChunkfuntum_docs||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to Funtum.xyz","permalink":"/funtum.xyz/blog/welcome","unlisted":false,"date":"2026-04-29T00:00:00.000Z"}]}')}}]);

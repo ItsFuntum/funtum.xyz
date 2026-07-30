@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfuntum_docs=self.webpackChunkfuntum_docs||[]).push([["16"],{9627(t){t.exports=JSON.parse('{"tags":[{"label":"site","permalink":"/funtum.xyz/blog/tags/site","count":1},{"label":"update","permalink":"/funtum.xyz/blog/tags/update","count":1}]}')}}]);
